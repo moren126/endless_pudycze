@@ -1,0 +1,16 @@
+{
+"companyName": "Didactix",
+"productName": "NIESKOŃCZONE PUDYCZE",
+"productVersion": "0.1",
+"dataUrl": "Nieskończone Pudycze.data.unityweb",
+"wasmCodeUrl": "Nieskończone Pudycze.wasm.code.unityweb",
+"wasmFrameworkUrl": "Nieskończone Pudycze.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F3EDED",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
