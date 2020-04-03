@@ -8,7 +8,7 @@
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
-"backgroundColor": "#F3EDED",
+"backgroundColor": "#FAF4FF",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
